@@ -1,24 +1,26 @@
-# Compiled class file
+# Kompilierte Dateien
 *.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
 *.jar
 *.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Build-Ordner
+target/        # Maven
+build/         # Gradle
+.gradle/
+out/           # IntelliJ
+
+# IDE-Dateien (jeder im Team nutzt vielleicht eine andere IDE)
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Geheimnisse und lokale Configs
+.env
+application-local.properties
