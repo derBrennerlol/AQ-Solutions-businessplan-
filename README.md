@@ -1,8 +1,8 @@
-# AQ Solutions – AQ-Bussinesplan
+# AQ Solutions – AQ-Businessplan
 
 > Academic Quarter: Wir sind eine Viertelstunde früher da.
 
-AQ-Bussinesplan ist eine Anwendung zur Erstellung von Businessplänen.
+AQ-Businessplan ist eine Anwendung zur Erstellung von Businessplänen.
 Sie ersetzt die bisherige Excel-Vorlage durch eine geführte,
 übersichtliche und fehlerärmere Lösung.
 
@@ -14,13 +14,14 @@ Entstanden im Rahmen des Moduls **Einführung in die Informatik I** an der **HS 
 
 ## Features (geplant)
 
+- [ ] Export als PDF
 - [ ] ...
 
 ## Team
 
 | Name        | Rolle | GitHub |
 |-------------|-------|--------|
-| Osakr       | ...   | @...   |
+| Oskar       | ...   | @...   |
 | Elias       | ...   | @...   |
 | Elli        | ...   | @...   |
 | Fabio       | ...   | @...   |
@@ -28,23 +29,6 @@ Entstanden im Rahmen des Moduls **Einführung in die Informatik I** an der **HS 
 | Johann      | ...   | @...   |
 | Konstantin  | ...   | @...   |
 | Tim         | ...   | @...   |
-
-
-(8 Zeilen)
-
-## Projektstruktur
-
-- `docs/`: Projektplan, Anforderungen, Meeting-Protokolle
-- `src/`: Quellcode
-- `.github/`: Issue- und PR-Vorlagen
-
-## Erste Schritte
-
-[Wird ergänzt]
-
-## Zusammenarbeit
-
-Siehe [CONTRIBUTING.md](CONTRIBUTING.md): Branches, Commits, Pull Requests.
 
 ## Projektplanung & Aufgaben
 
@@ -59,6 +43,17 @@ Unsere Planung läuft über das GitHub Project:
 5. Mindestens eine weitere Person reviewt, dann wird gemerged und das Issue schließt sich automatisch (**Done**).
 
 **Ansichten:** Board (Tagesgeschäft), Tabelle (Filter nach Person/Phase), Roadmap (Zeitplan bis zur Abgabe).
-## Lizenz
 
-[Wird noch geklärt]
+## Projektstruktur
+
+- `docs/`: Projektplan, Anforderungen, Meeting-Protokolle
+- `src/`: Quellcode
+- `.github/`: Issue- und PR-Vorlagen
+
+## Erste Schritte
+
+[Wird ergänzt]
+
+## Zusammenarbeit
+
+Siehe [CONTRIBUTING.md](CONTRIBUTING.md): Branches, Commits, Pull Requests.
