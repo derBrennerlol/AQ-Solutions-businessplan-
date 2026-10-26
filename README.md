@@ -33,7 +33,7 @@ Entstanden im Rahmen des Moduls **Einführung in die Informatik I** an der **HS 
 ## Projektplanung & Aufgaben
 
 Unsere Planung läuft über das GitHub Project:
-👉 [AQ Solutions – Planung](LINK-ZUM-PROJECT)
+👉 [AQ Solutions – Planung](https://github.com/users/derBrennerlol/projects/1)
 
 **So arbeiten wir:**
 1. Jede Aufgabe ist ein Issue (Vorlage nutzen) und bekommt eine verantwortliche Person.
